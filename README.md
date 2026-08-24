@@ -6,10 +6,10 @@ Proyectos personales y proyectos desarrollados durante mi experiencia profesiona
 
 ### 💼 Experiencia profesional
 
-**[Southpaw](./portfolio-profesional/README.md#southpaw)**  
+**[Southpaw](./portfolio-profesional/.southpaw/README.md)**  
 Sistema de gestión deportiva.
 
-**[Jesús Lezama Fitness Club](./portfolio-profesional/README.md#jesús-lezama-fitness-club)**  
+**[Jesús Lezama Fitness Club](./portfolio-profesional/jesús-lezama-fitness-club/README.md)**  
 Sistema de gestión para operaciones de un centro deportivo.
 
 ## Tecnologías
