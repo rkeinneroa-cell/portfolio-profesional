@@ -22,7 +22,7 @@ Angular · JavaScript · TypeScript · Tailwind CSS · Supabase · PostgreSQL ·
 ## Capturas
 <img width="1870" height="872" alt="image" src="https://github.com/user-attachments/assets/fda2e521-87cf-4bdf-9b37-4d1de8d65af9" />
 <img width="1879" height="846" alt="image" src="https://github.com/user-attachments/assets/8dd02d47-ccf0-4216-9315-c262b018761c" />
-<img width="1594" height="792" alt="image" src="https://github.com/user-attachments/assets/0acb6eac-0aa5-49ea-b123-3f169f20fbce" />
+<img width="1580" height="986" alt="image" src="https://github.com/user-attachments/assets/c6bb421e-98c6-4dd2-bd68-8c7d220c3d55" />
 <img width="1582" height="817" alt="image" src="https://github.com/user-attachments/assets/0ea7c8f1-e116-4695-aab7-4f6128ef5d5f" />
 
 <img width="518" height="990" alt="image" src="https://github.com/user-attachments/assets/219df0f1-badb-4c6b-8658-1af76018aaca" />
