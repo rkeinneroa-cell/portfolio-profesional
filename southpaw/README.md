@@ -32,5 +32,13 @@ Angular · TypeScript · Supabase · PostgreSQL · Tailwind CSS
 <img width="1594" height="792" alt="image" src="https://github.com/user-attachments/assets/0acb6eac-0aa5-49ea-b123-3f169f20fbce" />
 <img width="1582" height="817" alt="image" src="https://github.com/user-attachments/assets/0ea7c8f1-e116-4695-aab7-4f6128ef5d5f" />
 
+<img width="518" height="990" alt="image" src="https://github.com/user-attachments/assets/219df0f1-badb-4c6b-8658-1af76018aaca" />
+<img width="495" height="987" alt="image" src="https://github.com/user-attachments/assets/1ee41c84-cc8e-4c55-9206-c5c5df4de2b0" />
+<img width="473" height="986" alt="image" src="https://github.com/user-attachments/assets/5b6cff31-a0dc-4a43-8fd1-3fc92577d435" />
+<img width="420" height="933" alt="image" src="https://github.com/user-attachments/assets/d8942d22-9b0c-4a01-89e6-699f21b739d0" />
+
+
+
+
 
 
