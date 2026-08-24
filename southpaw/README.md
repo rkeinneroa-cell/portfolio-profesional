@@ -1,30 +1,23 @@
 # Southpaw
 
-Plataforma de gestión y entrenamiento orientada a **artes marciales y deportes de combate**, con funcionalidades para gimnasios y deportistas.
-
-La plataforma permite gestionar información deportiva de los usuarios, incluyendo categorías de peso, perfiles de entrenamiento y diferentes disciplinas de combate como **MMA, Muay Thai y lucha**.
+Plataforma de gestión y entrenamiento orientada a **artes marciales y deportes de combate**, con funcionalidades para gimnasios y deportistas. Permite gestionar información deportiva de los usuarios, incluyendo categorías de peso, perfiles de entrenamiento y diferentes disciplinas de combate.
 
 Además, incorpora funcionalidades de **análisis de videos mediante IA**, permitiendo procesar los resultados obtenidos y presentarlos al usuario mediante métricas y resultados de análisis.
 
 ## Tecnologías
 
-Angular · TypeScript · Supabase · PostgreSQL · Tailwind CSS
+Angular · JavaScript · TypeScript · Tailwind CSS · Supabase · PostgreSQL · Tailwind CSS
 
 ## Desarrollo realizado
 
-* Creación y modificación de vistas, pestañas y estilos de la aplicación.
-* Desarrollo de funcionalidades CRUD para diferentes entidades.
-* Implementación de formularios y validaciones.
-* Adaptación y desarrollo de la interfaz para dispositivos móviles utilizando Tailwind CSS y diseño responsive.
-* Creación de servicios para la gestión y consumo de datos.
-* Creación y consumo de **Supabase Edge Functions**.
-* Creación y consumo de funciones **RPC** en PostgreSQL.
-* Optimización de consultas complejas mediante RPC.
-* Implementación de tipado fuerte con TypeScript.
-* Componentización y reutilización de componentes.
-* Integración de resultados de análisis mediante IA.
-* Mapeo de respuestas JSON generadas por el análisis de videos y transformación de los datos en métricas visuales dentro de la aplicación.
-* Corrección y mejora de procesos existentes.
+* Desarrollo y modificación de vistas, componentes y funcionalidades de la plataforma.
+* Implementación de **CRUD, formularios, validaciones y servicios** para la gestión de datos.
+* Desarrollo de consultas y operaciones complejas mediante **funciones RPC en PostgreSQL**, optimizando el acceso a datos.
+* Creación y consumo de **Supabase Edge Functions** para procesos backend.
+* Integración y procesamiento de **resultados de análisis mediante IA**, transformando respuestas JSON en métricas visuales dentro de la aplicación.
+* Implementación de **tipado fuerte y componentes reutilizables** con TypeScript y Angular.
+* Adaptación completa de la interfaz a dispositivos móviles mediante **Tailwind CSS y diseño responsive**.
+* Corrección, mantenimiento y mejora de funcionalidades existentes.
 
 ## Capturas
 <img width="1870" height="872" alt="image" src="https://github.com/user-attachments/assets/fda2e521-87cf-4bdf-9b37-4d1de8d65af9" />
